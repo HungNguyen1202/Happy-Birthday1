@@ -1,5 +1,5 @@
 function changeTab() {
-  window.location =""; // put next website
+  window.location ="https://hungnguyen1202.github.io/Happy-Birthday2/"; // put next website
 }
 
 function delay() {
